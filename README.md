@@ -1,23 +1,23 @@
-# Spuštění
+## Spuštění
 
 Backend není součástí tohoto FE repozitáře. Pro lokální spuštění aplikace je potřeba jej naklonovat samostatně: https://github.com/morosystems/todo-be .
 
 - Dokumentace ke spuštění backendu je dostupná přímo v daném repozitáři.
 - Backend v rámci tohoto řešení neupravuji a používám jej pouze jako "externí" API. Z tohoto důvodu není fork backendového repozitáře nutný.
 
-## Doporučená struktura
+### Doporučená struktura
 
 - /todo
   - /todo-fe
   - /todo-be
 
-## Vytvoření .env
+### Vytvoření .env
 
 V adresáři `/todo-fe` vytvořte `.env` podle `.env.example`
 
-# Dokumentace
+## Dokumentace
 
-## Použité technologie
+### Použité technologie
 
 - React
 - TypeScript
@@ -32,11 +32,11 @@ V adresáři `/todo-fe` vytvořte `.env` podle `.env.example`
 - ESLint
 - Prettier
 
-## Funkčnost
+### Funkčnost
 
 - Aplikace pokrývá požadované funkcionality dle zadání.
 
-### Rozšíření nad rámec zadání
+#### Rozšíření nad rámec zadání
 
 - aplikace podporuje vícejazyčnost v češtině a angličtině
 - datumy jsou formátovány podle aktuálně zvoleného jazyka
