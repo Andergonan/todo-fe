@@ -1,0 +1,37 @@
+{
+  "common": {
+    "loading": "Načítám...",
+    "appTitle": "To-Do List"
+  },
+  "tasks": {
+    "heading": "Úkoly",
+    "summary": "{{activeCount}} aktivní, {{completedCount}} dokončeno",
+    "empty": "Nemáte žádné úkoly.",
+    "newTaskPlaceholder": "Přidat úkol",
+    "addTask": "Přidat",
+    "created": "Vytvořeno",
+    "completedDate": "Dokončeno",
+    "notCompleted": "Nedokončeno",
+    "filter": {
+      "label": "Filtrovat úkoly",
+      "all": "Vše",
+      "active": "Aktivní",
+      "completed": "Dokončené"
+    },
+    "markAllCompleted": "Označit vše za hotové",
+    "deleteCompleted": "Smazat hotové úkoly ({{count}})",
+    "markAllIncomplete": "Odznačit vše",
+    "editTooltip": "Dvakrát klikněte pro úpravu",
+    "error": {
+      "create": "Úkol se nepodařilo vytvořit.",
+      "load": "Úkoly se nepodařilo načíst.",
+      "updateText": "Název úkolu se nepodařilo změnit.",
+      "statusUpdate": "Stav úkolu se nepodařilo změnit.",
+      "completeAll": "Všechny úkoly se nepodařilo označit jako hotové.",
+      "incompleteAll": "Všechny úkoly se nepodařilo označit jako nedokončené.",
+      "deleteCompleted": "Hotové úkoly se nepodařilo smazat.",
+      "delete": "Úkol se nepodařilo smazat."
+    },
+    "retry": "Zkusit znovu"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "appTitle": "To-Do List"
+  },
+  "tasks": {
+    "heading": "Tasks",
+    "summary": "{{activeCount}} active, {{completedCount}} completed",
+    "empty": "You have no tasks.",
+    "newTaskPlaceholder": "Add your task",
+    "addTask": "Add",
+    "created": "Created",
+    "completedDate": "Completed",
+    "notCompleted": "Not completed",
+    "filter": {
+      "label": "Filter tasks",
+      "all": "All",
+      "active": "Active",
+      "completed": "Completed"
+    },
+    "markAllCompleted": "Mark all as done",
+    "deleteCompleted": "Delete completed tasks ({{count}})",
+    "markAllIncomplete": "Unmark all",
+    "editTooltip": "Double-click to edit",
+    "error": {
+      "create": "Task could not be created.",
+      "load": "Tasks could not be loaded.",
+      "updateText": "Task title could not be updated.",
+      "statusUpdate": "Task status could not be updated.",
+      "completeAll": "All tasks could not be marked as completed.",
+      "incompleteAll": "All tasks could not be marked as incomplete.",
+      "deleteCompleted": "Completed tasks could not be deleted.",
+      "delete": "Task could not be deleted."
+    },
+    "retry": "Try again"
+  }
+}
