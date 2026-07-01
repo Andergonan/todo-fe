@@ -17,6 +17,11 @@ Backend není součástí tohoto FE repozitáře. Pro lokální spuštění apli
 
 V adresáři `/todo-fe` vytvořte `.env` podle `.env.example`
 
+### instalace
+
+- v adresáři `/todo-fe` -> `npm install`
+- `npm run dev`
+
 ## Dokumentace
 
 ### Použité technologie
