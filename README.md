@@ -7,9 +7,11 @@ Backend není součástí tohoto FE repozitáře. Pro lokální spuštění apli
 
 ### Doporučená struktura
 
+```
 - /todo
   - /todo-fe
   - /todo-be
+```
 
 ### Vytvoření .env
 
